@@ -1,0 +1,6 @@
+https://cocodataset.org/#download
+
+2017 Train images [118K/18GB]
+2017 Val images [5K/1GB]
+2017 Test images [41K/6GB] (no annotations for this set)
+2017 Train/Val annotations [241MB] (for object detection)
